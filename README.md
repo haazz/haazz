@@ -33,6 +33,9 @@
 </p>
 <br>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkwldnjs121)](https://solved.ac/gkwldnjs121)
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌🏻 Team projects </h2> <br>
 <h3> 1. 대학 친구 찾기 앱 </h3>
 
