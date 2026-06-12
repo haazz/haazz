@@ -30,7 +30,7 @@
 | 2025.04 ~ 2025.05 | [API Ghost](https://github.com/api-ghost/api-ghost) |
 | 2025.02 ~ 2025.04 | [K6Weaver](https://github.com/K6Weaver/K6Weaver) |
 | 2025.01 ~ 2025.02 | [Jippy](https://github.com/JIPPY-HBHW) |
-| 2024.02 ~ 2025.03 | Keyword Discount Alert Service |
+| 2024.02 ~ 2025.03 | [Keyword Discount Alert Service](https://github.com/haazz/Keyword-Alert-With-Slack) |
 
 ## Certification
 
